@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Didot-Italic';
+  src: url('Didot-Italic.woff') format('woff'),
+       url('Didot-Italic.ttf') format('truetype'),
+       url('Didot-Italic.svg#Didot-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'didotitalic';
+  src: url('didotitalic.eot');
+  src: url('didotitalic.woff2') format('woff2'),
+       url('didotitalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
